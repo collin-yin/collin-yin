@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Collin!
-- 🌱 I’m currently learning front-end development
+- 🌱 I’m the developer for discovery channel (cro)
 
 <!---
 collin-yin/collin-yin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
